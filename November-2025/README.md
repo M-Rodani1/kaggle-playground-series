@@ -7,7 +7,7 @@
 
 ---
 
-##Competition Overview
+## Competition Overview
 
 Binary classification predicting loan default probability. Dataset: 593,994 training samples, 11 features, 80/20 class imbalance. Evaluation: AUC-ROC.
 
