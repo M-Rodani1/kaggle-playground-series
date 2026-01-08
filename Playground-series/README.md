@@ -4,4 +4,4 @@
 
 
 
-Systematic ML learning through monthly competitions.
+Systematic Machine learning mastery through monthly competitions.
